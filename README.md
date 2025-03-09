@@ -1,5 +1,7 @@
 ## Introduction
 
+![image](https://github.com/user-attachments/assets/c3e4eb9e-6347-4f50-a941-1846addbe4cf)
+
 PetSOS is a compassionate platform dedicated to reuniting lost pets with their owners and helping homeless animals find loving homes. Built with a modern tech stack, PetSOS connects pet lovers with an intuitive interface to post, search, and manage pet listings—because every pet deserves a safe and happy home.
 
 ## Features
